@@ -7,3 +7,5 @@ Though I did need to use the short key ID format:
 ```shell
 gpg --list-secret-keys --keyid-format SHORT <your_email>
 ```
+
+And it even works from [Working Copy](https://workingcopyapp.com/manual/signed-commits)!
